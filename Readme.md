@@ -81,3 +81,16 @@ include in .storybook/preview.cjs
     theme: themes.dark,
   }
 ```
+create repository github
+
+```cmd 
+gh repo create                                      
+? What would you like to do? Push an existing local repository to GitHub
+? Path to local repository .
+? Repository name miguelduquefilho/ignite-lab-design-system
+? Description Design desenvolvido durante o Ignite Lab 03
+? Visibility Public
+✓ Created repository MiguelDuqueFilho/ignite-lab-design-system on GitHub
+? Add a remote? Yes
+? What should the new remote be called? (origin) 
+```
